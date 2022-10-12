@@ -1,0 +1,2 @@
+Part A Report.ipynb contains all the source codes, results, and report for Assignment 1 Part A  Questions 1-4
+Part B Report.ipynb contains all the source codes, results, and report for Assignment 1 Part B  Questions 1-3
